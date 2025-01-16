@@ -46,3 +46,6 @@ Messages are classified as spam or ham based on the higher posterior probability
 Performance Metrics:
 
 Evaluate the classifier using Precision, Recall, and F1-Score.
+
+## Documentation
+- Read the documentation on `/Documentation/Bayesian_spam_detection.pdf`
